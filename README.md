@@ -3,7 +3,9 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. I
 •Responsive Layout: Works seamlessly on various screen sizes.
 
 •Basic Operations: Perform addition, subtraction, multiplication, and division.
+
 •Clear Functionality: Reset the calculator with a clear button.
+
 •Real-time Calculation: Updates results instantly as numbers and operations are input.
 # Output
 
